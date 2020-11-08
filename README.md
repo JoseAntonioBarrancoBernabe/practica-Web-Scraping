@@ -6,7 +6,7 @@ perteneciente al Máster en Ciencia de Datos de la Universitat Oberta de Catalun
 Datos obtenidos de Sede Electrónica del Catastro : www.sedecatastro.gob.es ,apartado buscador de inmuebles https://www1.sedecatastro.gob.es/CYCBienInmueble/OVCBusqueda.aspx
 
 ## Miembros del equipo
-La actividad ha sido realizada de manera individual por José Antonio Barranco Bernabé.
+Ver pestaña Wiki.
 
 ## Basado en publicación
 Autores: Caballero et al.(2018).BIG DATA con PYTHON.RC Libros(Capítulo 2, pags 43-57).
@@ -16,7 +16,7 @@ CC BY-NC-SA 4.0 License.
 Ver resumen https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es
 
 ### Ficheros
-Código en formato notebook de Jupyter.
-Fichero formato csv.
+Ver pestaña Wiki.
+
 
 
